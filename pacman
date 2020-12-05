@@ -17,7 +17,7 @@ ranger
 scrot
 sddm
 steam
-task
+task timew
 tree
 wget
 virtualbox virtualbox-host-modules-arch virtualbox-guest-iso
@@ -26,3 +26,4 @@ fzf
 zip unzip
 mpv
 wol
+youtube-dl
