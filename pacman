@@ -20,7 +20,7 @@ steam
 task
 tree
 wget
-virtualbox virtualbox-host-modules-arch virtualbox-guest-iso virtualbox-ext-oracle
+virtualbox virtualbox-host-modules-arch virtualbox-guest-iso
 which
 fzf
 zip unzip
