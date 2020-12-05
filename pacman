@@ -1,9 +1,11 @@
 feh
+awesome
+bluez bluez-utils
 tldr
 qutebrowser
 pass
 discord
-docker
+docker docker-compose
 gvim
 htop
 kitty
@@ -14,3 +16,13 @@ remmina
 ranger
 scrot
 sddm
+steam
+task
+tree
+wget
+virtualbox virtualbox-host-modules-arch virtualbox-guest-iso virtualbox-ext-oracle
+which
+fzf
+zip unzip
+mpv
+wol
